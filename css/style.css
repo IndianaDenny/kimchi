@@ -37,6 +37,8 @@ cursive;
         background-color: pink;
     }
     
+
+    
 }
 
 
@@ -133,7 +135,10 @@ font-family: 'Rubik',sans-serif;
     font-family: 'Permanent Marker',cursive;
     color:whitesmoke;
     text-shadow: 2px 2px black;
-    font-size: 3vh;
+   
+     font-size: 2vh;
+   
+   
 }
 
 
