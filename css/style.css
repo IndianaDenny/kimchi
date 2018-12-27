@@ -11,8 +11,7 @@ font-family: 'Thasadith',sans-serif;
 font-family: 'Major Mono Display',
 monospace;
 
-font-family: 'Rubik',
-sans-serif;
+font-family: 'Rubik',sans-serif;
 
 font-family: 'ZCOOL KuaiLe',
 cursive;
@@ -53,17 +52,19 @@ body {
 
 h1{
     
-
-font-family: 'Carter One', cursive;
-color:#ff033e;
- text-shadow: 1px 1px black;
+    font-family: 'Carter One', cursive;
+    color:#ff033e;
+    text-shadow: 1px 1px black;
     font-size: 4.5vh;
     
 }
 
 p{
-    font-family: 'Thasadith',sans-serif;
+   
+    font-family: 'Rubik',sans-serif;
     color:black;
+    line-height: 5vh;
+    font-size: 3.5vh;
     
 }
 
@@ -73,16 +74,30 @@ h5{
   font-family: 'Quicksand', sans-serif;
   letter-spacing: 3px;
   font-size: 3.5vh; 
-    
+  line-height: 5.5vh;  
     
 }
 
-h2,h3,
-h4, h6 {
-    font-family: 'Indie Flower', cursive;
+h2 {
+    font-family: 'Mavin Pro',sans-serif;
+    letter-spacing: 5px;
+    line-height: 1.8em;
+    font-size: 3.5vh;
+}
+
+
+h3{
+   font-family: 'Quicksand', sans-serif;
+    letter-spacing: 5px;
+    line-height: 1.8em;
+    font-size: 4vh;
+}
+
+h4 {
+   font-family: 'Quicksand', sans-serif;
     letter-spacing: 5px;
     line-height: 1.6em;
-    font-size: 3vh;
+    font-size: 4vh;
 }
 
 .call{
@@ -93,6 +108,14 @@ h4, h6 {
     box-shadow: 0px 1px white;
     text-shadow: 2px 2px black;
     
+}
+
+.deliver {
+    font-family: 'Rubik',    sans-serif;
+    font-size: 4vw;
+    letter-spacing: 10px;
+    color: white;
+   
 }
 
 .home-btn{
