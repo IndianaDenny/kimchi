@@ -86,7 +86,7 @@ cursive;
         background-color: pink;
     }
     
-
+   
     
 }
 
@@ -105,7 +105,7 @@ h1{
     font-family: 'Carter One', cursive;
     color:#ff033e;
     text-shadow: 1px 1px black;
-    font-size: 5.5vh;
+    font-size: 4.5vh;
     
 }
 
@@ -132,7 +132,7 @@ h2 {
     font-family: 'Mavin Pro',sans-serif;
     letter-spacing: 5px;
     line-height: 5vh;
-    font-size: 4.5vh;
+    font-size: 4vh;
 }
 
 
